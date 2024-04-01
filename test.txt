@@ -2,3 +2,4 @@ lan 1 nao
 lan 2 nao
 lan 3 thanh cong
 chay thu lan 4
+chay CI/cd
